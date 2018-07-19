@@ -1,7 +1,6 @@
 # Summer Hackery: Tooling
 ## Resources
 1. Emmet - Web developer toolkit for your text editor
-
 This is a tool for lazy/pragmatic/busy coders. There are plugins available for most modern text editors. Read up on what Emmet is and how to install it here:
 - [Emmet For Faster HTML & CSS Workflow](https://www.youtube.com/watch?v=5BIAdWNcr8Y) by Traversy Media (35 minutes)
 Download the sample Code in the video description (under "CODE: Code for this video") to follow along with the tutorial. 
